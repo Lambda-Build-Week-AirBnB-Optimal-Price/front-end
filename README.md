@@ -1,8 +1,31 @@
+# AirBnb Price Predictions 
 
-AirBnB dataset is being utilised to generate best estimate prediction for daily rental price on AirBnB.
+## ✈️ About Our App:
 
-The model is trained on Random Forest Regressor.
+AirBnB dataset collected from major US cities is being utilized to generate estimated price predictions for single day rentals on [airbnb.com](https://www.airbnb.com/).
 
-A dash app has been made and hosted on heroku.
+## ☝️ Our Proposal:
 
-The process and the predictions can be checked at [AirBnB Predictions](http://ftairbnb34.herokuapp.com)
+Predict the price of AirBnB listings in major U.S. cities based on multiple house amenities/attributes.
+
+## 💡 Key Features:
+
+The model used in this app is trained using Random Forest Regressor and is a dash app that has been deployed on heroku.
+
+## 🧮 About the Data:
+
+The data used for this application was was originally apart of the Deloitte Machine Learning Competition on Kaggle and can be found [here](https://www.kaggle.com/rudymizrahi/airbnb-listings-in-major-us-cities-deloitte-ml).
+
+## 🛠 Frameworks & Libraries Used:
+
+- Flask
+- SQL-Alchemy
+- Pandas
+- Numpy
+- Plotly
+- Sklearn
+- Dash
+- Heroku
+- Gunicorn
+
+###### This app was made in collaboration with Azamatkhuja Jalilov, Samantha Temple, Lee Rowe, and Dennis Smith. 
